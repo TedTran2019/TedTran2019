@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Organizations holding my projects
 - https://github.com/TedTran2019-Qwasar
 - https://github.com/TedTran2019-42
-- https://github.com/TedTran2019-App-Academy
+- https://github.com/TedTran2019-App-Academy-Open
 - https://github.com/tedtran2019-forks
 - https://github.com/TedTran2019-Misc
 - https://github.com/TedTran2019-Interview-Prep
