@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedtran2019&count_private=true&show_icons=true&theme=dracula)]
+## Organizations holding my projects
+
+
+![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedtran2019&count_private=true&show_icons=true&theme=dracula)
+
+![](https://komarev.com/ghpvc/?username=tedtran2019)
