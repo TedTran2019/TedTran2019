@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Organizations holding my projects
+- https://github.com/TedTran2019-Qwasar
+- https://github.com/TedTran2019-42
+- https://github.com/TedTran2019-App-Academy
+- https://github.com/tedtran2019-forks
+- https://github.com/TedTran2019-Misc
+- https://github.com/TedTran2019-Interview-Prep
 
 
 ![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedtran2019&count_private=true&show_icons=true&theme=dracula)
