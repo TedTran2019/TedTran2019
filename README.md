@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tedtran2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tedtran2019" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12244608/tedtran2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tedtran2019" height="30" width="40" /></a>
-<a href="mailto:tedtran2019@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="tedtran2019" height="30" width="40" /></a>
+<a href="mailto:tedtran2019@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/TedTran2019-Misc/icons/main/gmail-icon.svg" alt="tedtran2019" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Language and Tools</h2>
