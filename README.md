@@ -9,6 +9,7 @@
 <a href="https://stackoverflow.com/users/12244608/tedtran2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tedtran2019" height="30" width="40" /></a>
 </p>
 
+<h2 align="center">Language and Tools</h2>
 <h3 align="left">Frontend:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
@@ -37,13 +38,25 @@
   <a href="https://rspec.info/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Other:</h3>
+<h3 align="left">Other:</h3> 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+
+<h2 align="center">Organizations holding my miscellaneous projects</h2>
+<h4 align="center"><i>Aka not being showcased on main page</i></h4>
+
+- [Full stack web development projects from Qwasar](https://github.com/TedTran2019-Qwasar)
+- [C projects from 42 Silicon Valley](https://github.com/TedTran2019-42)
+- [Full stack web development projects from App Academy Open](https://github.com/TedTran2019-App-Academy-Open)
+- [Open-source contributions!](https://github.com/tedtran2019-forks)
+- [Miscellaneous stuff like courses, events, challenges, etc ](https://github.com/TedTran2019-Misc)
+- [Interview Prep material](https://github.com/TedTran2019-Interview-Prep)
+
+<h2 align="center">Statistics!</h2>
 
 ![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedtran2019&count_private=true&show_icons=true&theme=dracula)
 
