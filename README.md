@@ -49,7 +49,7 @@
 <h2 align="center">Organizations holding my miscellaneous projects</h2>
 <h4 align="center"><i>Aka not being showcased on main page</i></h4>
 
-- [Full stack web development projects from Qwasar](https://github.com/TedTran2019-Qwasar)
+- [Season 00-03 projects from Qwasar](https://github.com/TedTran2019-Qwasar)
 - [C projects from 42 Silicon Valley](https://github.com/TedTran2019-42)
 - [Full stack web development projects from App Academy Open](https://github.com/TedTran2019-App-Academy-Open)
 - [Open-source contributions!](https://github.com/tedtran2019-forks)
@@ -63,10 +63,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedtran2019&show_icons=true&locale=en&layout=compact" alt="tedtran2019" /></p>
 
 <!--
-**TedTran2019/TedTran2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -75,12 +71,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-## Organizations holding my miscellaneous projects
-- https://github.com/TedTran2019-Qwasar
-- https://github.com/TedTran2019-42
-- https://github.com/TedTran2019-App-Academy-Open
-- https://github.com/tedtran2019-forks
-- https://github.com/TedTran2019-Misc
-- https://github.com/TedTran2019-Interview-Prep
 -->
