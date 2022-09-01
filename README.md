@@ -29,7 +29,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"> </a>
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TedTran2019-Misc/icons/main/daisy-ui-logo.svg" alt="daisyui" width="40" height="40"> </a>
   <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TedTran2019-Misc/icons/main/chakra-ui-logo.png" alt="chakraui" width="60" height="40"> </a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"> </a>
+  <!-- <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"> </a> -->
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"> </a>
 </p>
 
