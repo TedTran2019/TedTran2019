@@ -75,11 +75,11 @@
 - [Miscellaneous stuff like courses, events, challenges, etc ](https://github.com/TedTran2019-Misc)
 - [Interview Prep material](https://github.com/TedTran2019-Interview-Prep)
 
-<h2 align="center">Statistics!</h2>
+<!-- <h2 align="center">Statistics!</h2>
 
 ![Ted's GitHub stats](https://github-readme-stats.vercel.app/api?username=tedtran2019&count_private=true&show_icons=true&theme=dracula)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedtran2019&show_icons=true&locale=en&layout=compact" alt="tedtran2019" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedtran2019&show_icons=true&locale=en&layout=compact" alt="tedtran2019" /></p> -->
 
 <!--
 - 🔭 I’m currently working on ...
